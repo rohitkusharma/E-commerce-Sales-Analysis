@@ -4,7 +4,7 @@
 The goal of this project is to analyze the "Sample - Superstore" dataset to identify key trends and insights regarding sales, profitability, and customer behavior. This analysis aims to answer business questions to support data-driven decision-making.
 
 ## Dataset
-The dataset used is the [Sample - Superstore Dataset](https://www.kaggle.com/datasets/safalnaik/sample-superstore) from Kaggle. It contains sales data for a US-based superstore.
+The dataset used is the **Sample - Superstore Dataset** from Kaggle. It contains sales data for a US-based superstore.
 
 ## Tools and Libraries
 - **Language:** Python
@@ -22,9 +22,6 @@ The dataset used is the [Sample - Superstore Dataset](https://www.kaggle.com/dat
 ## Key Findings & Visualizations
 
 * **Profitability by Category:** The Technology category is the most profitable, while the Furniture category has a significantly lower profit margin compared to others.
-
-    ![Profit by Category](profit_by_category.png)
-
 * **Customer Segmentation:** The 'Consumer' segment is the largest contributor to both sales and profit, making it the most valuable customer segment.
 * **Sales Trend:** The analysis of monthly sales shows a clear upward trend over the years and indicates seasonality, with sales consistently peaking at the end of the year.
 
