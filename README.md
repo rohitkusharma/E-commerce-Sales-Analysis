@@ -18,6 +18,7 @@ The dataset used is the **[Sample - Superstore Dataset](https://github.com/rohit
     * What are the best-selling and most profitable product categories?
     * Which customer segment is the most important?
     * How do sales trend over time?
+    * How Do Discounts Affect Profitability?
 
 ## Key Findings & Visualizations
 
