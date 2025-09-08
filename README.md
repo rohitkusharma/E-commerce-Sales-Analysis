@@ -4,7 +4,7 @@
 The goal of this project is to analyze the "Sample - Superstore" dataset to identify key trends and insights regarding sales, profitability, and customer behavior. This analysis aims to answer business questions to support data-driven decision-making.
 
 ## Dataset
-The dataset used is the **[Sample - Superstore Dataset]([url](https://github.com/rohitkusharma/E-commerce-Sales-Analysis/blob/0140a8aa7033cc4a59e30df8d93e8321438a305e/Sample%20-%20Superstore.csv))** from Kaggle. It contains sales data for a US-based superstore.
+The dataset used is the **[Sample - Superstore Dataset](https://github.com/rohitkusharma/E-commerce-Sales-Analysis/blob/0140a8aa7033cc4a59e30df8d93e8321438a305e/Sample%20-%20Superstore.csv)** from Kaggle. It contains sales data for a US-based superstore.
 
 ## Tools and Libraries
 - **Language:** Python
